@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: db6feabbabefea546ad97cf26752cd33, type: 3}
+    totalSpriteSurfaceArea: 523233
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -5812820539536789981, guid: db6feabbabefea546ad97cf26752cd33, type: 3}
+  - {fileID: 6145621467490785123, guid: db6feabbabefea546ad97cf26752cd33, type: 3}
+  - {fileID: -7066852189762636204, guid: db6feabbabefea546ad97cf26752cd33, type: 3}
+  - {fileID: 4342792517556750429, guid: db6feabbabefea546ad97cf26752cd33, type: 3}
+  - {fileID: 793551607396933379, guid: db6feabbabefea546ad97cf26752cd33, type: 3}
+  - {fileID: 884740899771172723, guid: db6feabbabefea546ad97cf26752cd33, type: 3}
+  - {fileID: -3654200250571415455, guid: db6feabbabefea546ad97cf26752cd33, type: 3}
+  - {fileID: -3034013946782220916, guid: db6feabbabefea546ad97cf26752cd33, type: 3}
+  - {fileID: -4390518398457285057, guid: db6feabbabefea546ad97cf26752cd33, type: 3}
+  - {fileID: 4452598989088097148, guid: db6feabbabefea546ad97cf26752cd33, type: 3}
+  - {fileID: 8686979140663606663, guid: db6feabbabefea546ad97cf26752cd33, type: 3}
+  - {fileID: 5617984102928548782, guid: db6feabbabefea546ad97cf26752cd33, type: 3}
+  - {fileID: 800881484616932700, guid: db6feabbabefea546ad97cf26752cd33, type: 3}
+  - {fileID: -2542043767530004477, guid: db6feabbabefea546ad97cf26752cd33, type: 3}
+  - {fileID: 8238431097527149223, guid: db6feabbabefea546ad97cf26752cd33, type: 3}
+  - {fileID: -1956225032792323976, guid: db6feabbabefea546ad97cf26752cd33, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - TaraCharacter_3
+  - TaraCharacter_2
+  - TaraCharacter_1
+  - TaraCharacter_0
+  - TaraCharacter_7
+  - TaraCharacter_6
+  - TaraCharacter_5
+  - TaraCharacter_4
+  - TaraCharacter_9
+  - TaraCharacter_8
+  - TaraCharacter_14
+  - TaraCharacter_15
+  - TaraCharacter_12
+  - TaraCharacter_13
+  - TaraCharacter_10
+  - TaraCharacter_11
+  m_RenderDataMap: {}
+  m_Tag: PlayerAtlas
+  m_IsVariant: 0
